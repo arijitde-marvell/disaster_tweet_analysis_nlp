@@ -1,1 +1,1 @@
-# disaster_tweet_analysis_nlp
+Comparison of Disaster tweets : The aim of this notebook is to classify tweets potentially related to catastrophes into real or misleading tweets. Here comparison between several ML techniques will be also done.
